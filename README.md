@@ -1,3 +1,3 @@
 👋 Hi, I’m @iveleckis
 
-Almost every project has a demo or video representation. (Hint: take a look)
+Almost every project has a demo, video or other visual representation. (Hint: take a look)
